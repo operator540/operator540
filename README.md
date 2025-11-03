@@ -1,16 +1,37 @@
-## Hi there 👋
+# Дмитрий — Backend-разработчик на Go
 
-<!--
-**operator540/operator540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> «Путь в тысячу ли начинается с одного шага.» — Лао-цзы  
 
-Here are some ideas to get you started:
+Я backend-разработчик, изучаю **Go** и основы **Computer Science**.  
+Мне нравится писать чистый, понятный и надёжный код.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Обо мне
+- 🎯 Изучаю **Go** и **Computer Science**
+- 🧩 Стремлюсь стать сильным разработчиком
+- 💻 Работаю в **Linux (Manjaro + Hyprland)**
+
+---
+
+### ⚙️ Стек технологий
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,linux,git,github,vscode,neovim,bash" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgresql,docker,html,css,js" />
+</p>
+
+---
+
+### 📊 GitHub статистика
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=operator540&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=operator540&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+---
+
+### 🕶️ Контакты
+- GitHub: [operator540](https://github.com/operator540)
+
+---
