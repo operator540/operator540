@@ -16,7 +16,7 @@
 
 ### ⚙️ Стек технологий
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,linux,git,github,vscode,neovim,bash" />
+  <img src="https://skillicons.dev/icons?i=go,linux,git,github,vscode,bash" />
   <br/>
   <img src="https://skillicons.dev/icons?i=postgresql,docker,html,css,js" />
 </p>
