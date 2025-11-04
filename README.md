@@ -18,7 +18,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,linux,git,github,vscode,bash" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,docker,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=postgresql,docker" />
 </p>
 
 ---
