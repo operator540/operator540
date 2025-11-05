@@ -33,5 +33,5 @@
 
 ### 🕶️ Контакты
 - GitHub: [operator540](https://github.com/operator540)
-- Discord: [~toky~](skuuuuuf)
+- Discord: [skuuuuuf]
 ---
